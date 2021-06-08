@@ -18,9 +18,9 @@ Functional requirements describe the services provided by the system to the acto
 2. Use free hosting provider: http://000webhost.com
 
 ## Libraries
-Volley: https://gist.github.com/RISHABH3821/bc48fe91119c2efa14cfab1accc71376
-Glide(For loading images): https://github.com/bumptech/glide
-Fast Android Networking (For better Image Upload): https://github.com/amitshekhariitbhu/Fast-Android-Networking
+- Volley: https://gist.github.com/RISHABH3821/bc48fe91119c2efa14cfab1accc71376
+- Glide: https://github.com/bumptech/glide
+- Fast Android Networking: https://github.com/amitshekhariitbhu/Fast-Android-Networking
 
 
 ## Documentation
