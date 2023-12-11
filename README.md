@@ -23,6 +23,4 @@ Functional requirements describe the services provided by the system to the acto
 - Fast Android Networking: https://github.com/amitshekhariitbhu/Fast-Android-Networking
 
 
-## Documentation
-You should find the documentation for project <a href="https://drive.google.com/file/d/1hLCXGVM1mIh7-rGjR7ZKeRLu1pF1zAYW/view?usp=sharing">here</a>
 
